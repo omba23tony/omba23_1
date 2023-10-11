@@ -2,7 +2,7 @@
 title: "omba23_1"
 author: "tony"
 date: '2023-10-11'
-output: doc_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
